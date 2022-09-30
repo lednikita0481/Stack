@@ -1,0 +1,509 @@
+----------------------------------------------------------------------------------------
+StackConstructor at D:\programming\Projects\Stack\stack.h(139):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 0
+    capacity = 5
+    data[00B821B0]
+    {
+         [0] = 0.000000       
+         [1] = 0.000000       
+         [2] = 0.000000       
+         [3] = 0.000000       
+         [4] = 0.000000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackPush at D:\programming\Projects\Stack\stack.h(176):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 0
+    capacity = 5
+    data[00B821B0]
+    {
+         [0] = 0.000000       
+         [1] = 0.000000       
+         [2] = 0.000000       
+         [3] = 0.000000       
+         [4] = 0.000000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackPush at D:\programming\Projects\Stack\stack.h(190):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 1
+    capacity = 5
+    data[00B821B0]
+    {
+        *[0] = 3.140000       
+         [1] = 0.000000       
+         [2] = 0.000000       
+         [3] = 0.000000       
+         [4] = 0.000000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackPush at D:\programming\Projects\Stack\stack.h(176):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 1
+    capacity = 5
+    data[00B821B0]
+    {
+        *[0] = 3.140000       
+         [1] = 0.000000       
+         [2] = 0.000000       
+         [3] = 0.000000       
+         [4] = 0.000000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackPush at D:\programming\Projects\Stack\stack.h(190):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 2
+    capacity = 5
+    data[00B821B0]
+    {
+        *[0] = 3.140000       
+        *[1] = 2.700000       
+         [2] = 0.000000       
+         [3] = 0.000000       
+         [4] = 0.000000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackPush at D:\programming\Projects\Stack\stack.h(176):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 2
+    capacity = 5
+    data[00B821B0]
+    {
+        *[0] = 3.140000       
+        *[1] = 2.700000       
+         [2] = 0.000000       
+         [3] = 0.000000       
+         [4] = 0.000000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackPush at D:\programming\Projects\Stack\stack.h(190):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 3
+    capacity = 5
+    data[00B821B0]
+    {
+        *[0] = 3.140000       
+        *[1] = 2.700000       
+        *[2] = 3.140000       
+         [3] = 0.000000       
+         [4] = 0.000000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackPush at D:\programming\Projects\Stack\stack.h(176):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 3
+    capacity = 5
+    data[00B821B0]
+    {
+        *[0] = 3.140000       
+        *[1] = 2.700000       
+        *[2] = 3.140000       
+         [3] = 0.000000       
+         [4] = 0.000000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackPush at D:\programming\Projects\Stack\stack.h(190):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 4
+    capacity = 5
+    data[00B821B0]
+    {
+        *[0] = 3.140000       
+        *[1] = 2.700000       
+        *[2] = 3.140000       
+        *[3] = 2.700000       
+         [4] = 0.000000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackPush at D:\programming\Projects\Stack\stack.h(176):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 4
+    capacity = 5
+    data[00B821B0]
+    {
+        *[0] = 3.140000       
+        *[1] = 2.700000       
+        *[2] = 3.140000       
+        *[3] = 2.700000       
+         [4] = 0.000000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackPush at D:\programming\Projects\Stack\stack.h(190):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 5
+    capacity = 5
+    data[00B821B0]
+    {
+        *[0] = 3.140000       
+        *[1] = 2.700000       
+        *[2] = 3.140000       
+        *[3] = 2.700000       
+        *[4] = 3.140000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackPush at D:\programming\Projects\Stack\stack.h(176):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 5
+    capacity = 5
+    data[00B821B0]
+    {
+        *[0] = 3.140000       
+        *[1] = 2.700000       
+        *[2] = 3.140000       
+        *[3] = 2.700000       
+        *[4] = 3.140000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackRealloc at D:\programming\Projects\Stack\stack.h(225):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 5
+    capacity = 5
+    data[00B821B0]
+    {
+        *[0] = 3.140000       
+        *[1] = 2.700000       
+        *[2] = 3.140000       
+        *[3] = 2.700000       
+        *[4] = 3.140000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackRealloc at D:\programming\Projects\Stack\stack.h(251):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 5
+    capacity = 10
+    data[00B82230]
+    {
+        *[0] = 3.140000       
+        *[1] = 2.700000       
+        *[2] = 3.140000       
+        *[3] = 2.700000       
+        *[4] = 3.140000       
+         [5] = 0.000000       
+         [6] = 0.000000       
+         [7] = 0.000000       
+         [8] = 0.000000       
+         [9] = 0.000000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackPush at D:\programming\Projects\Stack\stack.h(190):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 6
+    capacity = 10
+    data[00B82230]
+    {
+        *[0] = 3.140000       
+        *[1] = 2.700000       
+        *[2] = 3.140000       
+        *[3] = 2.700000       
+        *[4] = 3.140000       
+        *[5] = 2.700000       
+         [6] = 0.000000       
+         [7] = 0.000000       
+         [8] = 0.000000       
+         [9] = 0.000000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackPop at D:\programming\Projects\Stack\stack.h(195):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 6
+    capacity = 10
+    data[00B82230]
+    {
+        *[0] = 3.140000       
+        *[1] = 2.700000       
+        *[2] = 3.140000       
+        *[3] = 2.700000       
+        *[4] = 3.140000       
+        *[5] = 2.700000       
+         [6] = 0.000000       
+         [7] = 0.000000       
+         [8] = 0.000000       
+         [9] = 0.000000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackPop at D:\programming\Projects\Stack\stack.h(218):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 5
+    capacity = 10
+    data[00B82230]
+    {
+        *[0] = 3.140000       
+        *[1] = 2.700000       
+        *[2] = 3.140000       
+        *[3] = 2.700000       
+        *[4] = 3.140000       
+         [5] = 2.700000       
+         [6] = 50160732958.000000      (POISON)
+         [7] = 0.000000       
+         [8] = 0.000000       
+         [9] = 0.000000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackPop at D:\programming\Projects\Stack\stack.h(195):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 5
+    capacity = 10
+    data[00B82230]
+    {
+        *[0] = 3.140000       
+        *[1] = 2.700000       
+        *[2] = 3.140000       
+        *[3] = 2.700000       
+        *[4] = 3.140000       
+         [5] = 2.700000       
+         [6] = 50160732958.000000      (POISON)
+         [7] = 0.000000       
+         [8] = 0.000000       
+         [9] = 0.000000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackPop at D:\programming\Projects\Stack\stack.h(218):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 4
+    capacity = 10
+    data[00B82230]
+    {
+        *[0] = 3.140000       
+        *[1] = 2.700000       
+        *[2] = 3.140000       
+        *[3] = 2.700000       
+         [4] = 3.140000       
+         [5] = 50160732958.000000      (POISON)
+         [6] = 50160732958.000000      (POISON)
+         [7] = 0.000000       
+         [8] = 0.000000       
+         [9] = 0.000000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackPop at D:\programming\Projects\Stack\stack.h(195):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 4
+    capacity = 10
+    data[00B82230]
+    {
+        *[0] = 3.140000       
+        *[1] = 2.700000       
+        *[2] = 3.140000       
+        *[3] = 2.700000       
+         [4] = 3.140000       
+         [5] = 50160732958.000000      (POISON)
+         [6] = 50160732958.000000      (POISON)
+         [7] = 0.000000       
+         [8] = 0.000000       
+         [9] = 0.000000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackPop at D:\programming\Projects\Stack\stack.h(218):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 3
+    capacity = 10
+    data[00B82230]
+    {
+        *[0] = 3.140000       
+        *[1] = 2.700000       
+        *[2] = 3.140000       
+         [3] = 2.700000       
+         [4] = 50160732958.000000      (POISON)
+         [5] = 50160732958.000000      (POISON)
+         [6] = 50160732958.000000      (POISON)
+         [7] = 0.000000       
+         [8] = 0.000000       
+         [9] = 0.000000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackPop at D:\programming\Projects\Stack\stack.h(195):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 3
+    capacity = 10
+    data[00B82230]
+    {
+        *[0] = 3.140000       
+        *[1] = 2.700000       
+        *[2] = 3.140000       
+         [3] = 2.700000       
+         [4] = 50160732958.000000      (POISON)
+         [5] = 50160732958.000000      (POISON)
+         [6] = 50160732958.000000      (POISON)
+         [7] = 0.000000       
+         [8] = 0.000000       
+         [9] = 0.000000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackRealloc at D:\programming\Projects\Stack\stack.h(225):
+Stack[0064FEB0](ERROR) 
+!!! Hash of data broken
+!!! Hash of stack broken
+----------------------------------------------------------------------------------------
+StackRealloc at D:\programming\Projects\Stack\stack.h(251):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 2
+    capacity = 5
+    data[00B82230]
+    {
+        *[0] = 3.140000       
+        *[1] = 2.700000       
+         [2] = 3.140000       
+         [3] = 50160732958.000000      (POISON)
+         [4] = 50160732958.000000      (POISON)
+    }
+}
+----------------------------------------------------------------------------------------
+StackPop at D:\programming\Projects\Stack\stack.h(218):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 2
+    capacity = 5
+    data[00B82230]
+    {
+        *[0] = 3.140000       
+        *[1] = 2.700000       
+         [2] = 3.140000       
+         [3] = 50160732958.000000      (POISON)
+         [4] = 50160732958.000000      (POISON)
+    }
+}
+----------------------------------------------------------------------------------------
+StackPop at D:\programming\Projects\Stack\stack.h(195):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 2
+    capacity = 5
+    data[00B82230]
+    {
+        *[0] = 3.140000       
+        *[1] = 2.700000       
+         [2] = 3.140000       
+         [3] = 50160732958.000000      (POISON)
+         [4] = 50160732958.000000      (POISON)
+    }
+}
+----------------------------------------------------------------------------------------
+StackRealloc at D:\programming\Projects\Stack\stack.h(225):
+Stack[0064FEB0](ERROR) 
+!!! Hash of data broken
+!!! Hash of stack broken
+----------------------------------------------------------------------------------------
+StackRealloc at D:\programming\Projects\Stack\stack.h(251):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 1
+    capacity = 2
+    data[00B82230]
+    {
+        *[0] = 3.140000       
+         [1] = 2.700000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackPop at D:\programming\Projects\Stack\stack.h(218):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 1
+    capacity = 2
+    data[00B82230]
+    {
+        *[0] = 3.140000       
+         [1] = 2.700000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackPop at D:\programming\Projects\Stack\stack.h(195):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 1
+    capacity = 2
+    data[00B82230]
+    {
+        *[0] = 3.140000       
+         [1] = 2.700000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackRealloc at D:\programming\Projects\Stack\stack.h(225):
+Stack[0064FEB0](ERROR) 
+!!! Hash of data broken
+!!! Hash of stack broken
+----------------------------------------------------------------------------------------
+StackRealloc at D:\programming\Projects\Stack\stack.h(251):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 0
+    capacity = 1
+    data[00B82230]
+    {
+         [0] = 3.140000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackPop at D:\programming\Projects\Stack\stack.h(218):
+Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+{
+    size     = 0
+    capacity = 1
+    data[00B82230]
+    {
+         [0] = 3.140000       
+    }
+}
+----------------------------------------------------------------------------------------
+StackPop at D:\programming\Projects\Stack\stack.h(195):
+Stack[0064FEB0](ERROR) 
+Impossible to pop smth from stack with 0 size
+----------------------------------------------------------------------------------------
+StackPop at D:\programming\Projects\Stack\stack.h(195):
+Stack[0064FEB0](ERROR) 
+Impossible to pop smth from stack with 0 size
+----------------------------------------------------------------------------------------
+StackPop at D:\programming\Projects\Stack\stack.h(195):
+Stack[0064FEB0](ERROR) 
+Impossible to pop smth from stack with 0 size
+----------------------------------------------------------------------------------------
+StackPop at D:\programming\Projects\Stack\stack.h(195):
+Stack[0064FEB0](ERROR) 
+Impossible to pop smth from stack with 0 size

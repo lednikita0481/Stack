@@ -53,42 +53,42 @@ void StackConstructor(Stack* stk, size_t capacity);
 void StackDestructor(Stack* stk);
 void StackPush(Stack* stk, Elem_t value);
 Elem_t StackPop(Stack* stk, int* err);
-static void StackRealloc(Stack* stk);
+void StackRealloc(Stack* stk);
 void* recalloc(void* mass, size_t num, size_t elem_size, size_t elements_now);
 int StackErrors(Stack* stk, bool Called_From_Pop);
 void StackErrorsDecoder(FILE* stream, int error);
-static void StackDuump(Stack* stk, int error, const char* func, const char* file, const int line);
-static size_t Calculate_Hash(void* structure, size_t size_bites);
+void StackDuump(Stack* stk, int error, const char* func, const char* file, const int line);
+size_t Calculate_Hash(void* structure, size_t size_bites);
 #if (defined(NDEBUG))
-    static void Stack_Calculate_Hash(Stack* stk);
+    void Stack_Calculate_Hash(Stack* stk);
 #endif
 
-static int ReturnPoison(int)
+int ReturnPoison(int)
 {
     return integer_poison;
 }
 
-static int ReturnPoison(size_t)
+int ReturnPoison(size_t)
 {
     return integer_poison;
 }
 
-static double ReturnPoison(double)
+double ReturnPoison(double)
 {
     return double_poison;
 }
 
-static char ReturnPoison(char)
+char ReturnPoison(char)
 {
     return 'z' + 1;
 }
 
-static char* ReturnPoison(char*)
+char* ReturnPoison(char*)
 {
     return NULL;
 }
 
-static unsigned long long ReturnPoison(unsigned long long)
+unsigned long long ReturnPoison(unsigned long long)
 {
     return integer_poison;
 }
@@ -204,23 +204,27 @@ Elem_t StackPop(Stack *stk, int* err = NULL)
     Elem_t element = stk->data[--stk->size];
     stk->data[stk->size + 1] = ReturnPoison(stk->data[stk->size]);
 
+    #if (defined(NDEBUG)) 
+        Stack_Calculate_Hash(stk);
+    #endif
+
     if ((stk->size)*4 <= stk->capacity)
     {
         StackRealloc(stk);
     }
 
-    if (err != NULL) *err = StackErrors(stk, false);
-
     #if (defined(NDEBUG)) 
         Stack_Calculate_Hash(stk);
     #endif
+
+    if (err != NULL) *err = StackErrors(stk, false);
 
     ASSERT_OK(stk, false);
 
     return element;
 }
 
-static void StackRealloc(Stack* stk)
+void StackRealloc(Stack* stk)
 {
     ASSERT_OK(stk, false);
 
@@ -415,7 +419,7 @@ void StackErrorsDecoder(FILE* stream, int error)
     #endif
 }
 
-static void StackDuump(Stack* stk, int error, const char* func, const char* file, const int line)
+void StackDuump(Stack* stk, int error, const char* func, const char* file, const int line)
 {
     char File_name[] = "debug.txt";
     FILE* File = fopen(File_name, "a");
@@ -460,7 +464,7 @@ static void StackDuump(Stack* stk, int error, const char* func, const char* file
     fclose(File);
 }
 
-static size_t Calculate_Hash(void* Structure, size_t size_bites)
+size_t Calculate_Hash(void* Structure, size_t size_bites)
 {
     char* structure = (char*)Structure;
     size_t control_sum = 0xDED9EBE1;
@@ -473,7 +477,7 @@ static size_t Calculate_Hash(void* Structure, size_t size_bites)
 }
 
 #if (defined(NDEBUG))
-    static void Stack_Calculate_Hash(Stack* stk)\
+    void Stack_Calculate_Hash(Stack* stk)\
     {\
         stk->stack_hash = 0;\
         stk->data_hash = Calculate_Hash(stk->Data_Left_Cannery, (2*sizeof(unsigned long long) + sizeof(Elem_t)*(stk->capacity)));\

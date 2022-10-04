@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-typedef double Elem_t;
-#define NDEBUG
+#include "config.h"
 #include "stack.h"
 
 int main()
@@ -20,25 +18,25 @@ int main()
 
 
     int err = 0;
-    Elem_t el = StackPop(&stk1, &err);
+    Elem_t el = StackPop(&stk1);
     printf("el = %lf\n", el);
-    el = StackPop(&stk1, &err);
+    el = StackPop(&stk1);
     printf("el = %lf\n", el);
-    el = StackPop(&stk1, &err);
+    el = StackPop(&stk1);
     printf("el = %lf\n", el);
-    el = StackPop(&stk1, &err);
+    el = StackPop(&stk1);
     printf("el = %lf\n", el);
-    el = StackPop(&stk1, &err);
+    el = StackPop(&stk1);
     printf("el = %lf\n", el);
-    el = StackPop(&stk1, &err);
+    el = StackPop(&stk1);
     printf("el = %lf\n", el);
-    el = StackPop(&stk1, &err);
+    el = StackPop(&stk1);
     printf("el = %lf\n", el);
-    el = StackPop(&stk1, &err);
+    el = StackPop(&stk1);
     printf("el = %lf\n", el);
-    el = StackPop(&stk1, &err);
+    el = StackPop(&stk1);
     printf("el = %lf\n", el);
-    el = StackPop(&stk1, &err);
+    el = StackPop(&stk1);
     printf("el = %lf\n", el);
 
 }

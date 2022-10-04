@@ -1,10 +1,10 @@
 ----------------------------------------------------------------------------------------
-StackConstructor at D:\programming\Projects\Stack\stack.h(139):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackConstructor at stack.cpp(66):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 0
     capacity = 5
-    data[00B821B0]
+    data[00F615D0]
     {
          [0] = 0.000000       
          [1] = 0.000000       
@@ -14,12 +14,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackPush at D:\programming\Projects\Stack\stack.h(176):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPush at stack.cpp(110):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 0
     capacity = 5
-    data[00B821B0]
+    data[00F615D0]
     {
          [0] = 0.000000       
          [1] = 0.000000       
@@ -29,12 +29,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackPush at D:\programming\Projects\Stack\stack.h(190):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPush at stack.cpp(125):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 1
     capacity = 5
-    data[00B821B0]
+    data[00F615D0]
     {
         *[0] = 3.140000       
          [1] = 0.000000       
@@ -44,12 +44,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackPush at D:\programming\Projects\Stack\stack.h(176):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPush at stack.cpp(110):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 1
     capacity = 5
-    data[00B821B0]
+    data[00F615D0]
     {
         *[0] = 3.140000       
          [1] = 0.000000       
@@ -59,12 +59,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackPush at D:\programming\Projects\Stack\stack.h(190):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPush at stack.cpp(125):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 2
     capacity = 5
-    data[00B821B0]
+    data[00F615D0]
     {
         *[0] = 3.140000       
         *[1] = 2.700000       
@@ -74,12 +74,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackPush at D:\programming\Projects\Stack\stack.h(176):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPush at stack.cpp(110):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 2
     capacity = 5
-    data[00B821B0]
+    data[00F615D0]
     {
         *[0] = 3.140000       
         *[1] = 2.700000       
@@ -89,12 +89,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackPush at D:\programming\Projects\Stack\stack.h(190):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPush at stack.cpp(125):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 3
     capacity = 5
-    data[00B821B0]
+    data[00F615D0]
     {
         *[0] = 3.140000       
         *[1] = 2.700000       
@@ -104,12 +104,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackPush at D:\programming\Projects\Stack\stack.h(176):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPush at stack.cpp(110):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 3
     capacity = 5
-    data[00B821B0]
+    data[00F615D0]
     {
         *[0] = 3.140000       
         *[1] = 2.700000       
@@ -119,12 +119,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackPush at D:\programming\Projects\Stack\stack.h(190):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPush at stack.cpp(125):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 4
     capacity = 5
-    data[00B821B0]
+    data[00F615D0]
     {
         *[0] = 3.140000       
         *[1] = 2.700000       
@@ -134,12 +134,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackPush at D:\programming\Projects\Stack\stack.h(176):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPush at stack.cpp(110):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 4
     capacity = 5
-    data[00B821B0]
+    data[00F615D0]
     {
         *[0] = 3.140000       
         *[1] = 2.700000       
@@ -149,12 +149,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackPush at D:\programming\Projects\Stack\stack.h(190):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPush at stack.cpp(125):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 5
     capacity = 5
-    data[00B821B0]
+    data[00F615D0]
     {
         *[0] = 3.140000       
         *[1] = 2.700000       
@@ -164,12 +164,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackPush at D:\programming\Projects\Stack\stack.h(176):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPush at stack.cpp(110):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 5
     capacity = 5
-    data[00B821B0]
+    data[00F615D0]
     {
         *[0] = 3.140000       
         *[1] = 2.700000       
@@ -179,12 +179,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackRealloc at D:\programming\Projects\Stack\stack.h(229):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackRealloc at stack.cpp(156):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 5
     capacity = 5
-    data[00B821B0]
+    data[00F615D0]
     {
         *[0] = 3.140000       
         *[1] = 2.700000       
@@ -194,12 +194,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackRealloc at D:\programming\Projects\Stack\stack.h(255):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackRealloc at stack.cpp(182):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 5
     capacity = 10
-    data[00B82230]
+    data[00F61650]
     {
         *[0] = 3.140000       
         *[1] = 2.700000       
@@ -214,12 +214,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackPush at D:\programming\Projects\Stack\stack.h(190):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPush at stack.cpp(125):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 6
     capacity = 10
-    data[00B82230]
+    data[00F61650]
     {
         *[0] = 3.140000       
         *[1] = 2.700000       
@@ -234,12 +234,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackPop at D:\programming\Projects\Stack\stack.h(195):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPop at stack.cpp(130):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 6
     capacity = 10
-    data[00B82230]
+    data[00F61650]
     {
         *[0] = 3.140000       
         *[1] = 2.700000       
@@ -254,12 +254,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackPop at D:\programming\Projects\Stack\stack.h(222):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPop at stack.cpp(149):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 5
     capacity = 10
-    data[00B82230]
+    data[00F61650]
     {
         *[0] = 3.140000       
         *[1] = 2.700000       
@@ -274,12 +274,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackPop at D:\programming\Projects\Stack\stack.h(195):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPop at stack.cpp(130):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 5
     capacity = 10
-    data[00B82230]
+    data[00F61650]
     {
         *[0] = 3.140000       
         *[1] = 2.700000       
@@ -294,12 +294,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackPop at D:\programming\Projects\Stack\stack.h(222):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPop at stack.cpp(149):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 4
     capacity = 10
-    data[00B82230]
+    data[00F61650]
     {
         *[0] = 3.140000       
         *[1] = 2.700000       
@@ -314,12 +314,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackPop at D:\programming\Projects\Stack\stack.h(195):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPop at stack.cpp(130):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 4
     capacity = 10
-    data[00B82230]
+    data[00F61650]
     {
         *[0] = 3.140000       
         *[1] = 2.700000       
@@ -334,12 +334,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackPop at D:\programming\Projects\Stack\stack.h(222):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPop at stack.cpp(149):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 3
     capacity = 10
-    data[00B82230]
+    data[00F61650]
     {
         *[0] = 3.140000       
         *[1] = 2.700000       
@@ -354,12 +354,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackPop at D:\programming\Projects\Stack\stack.h(195):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPop at stack.cpp(130):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 3
     capacity = 10
-    data[00B82230]
+    data[00F61650]
     {
         *[0] = 3.140000       
         *[1] = 2.700000       
@@ -374,12 +374,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackRealloc at D:\programming\Projects\Stack\stack.h(229):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackRealloc at stack.cpp(156):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 2
     capacity = 10
-    data[00B82230]
+    data[00F61650]
     {
         *[0] = 3.140000       
         *[1] = 2.700000       
@@ -394,12 +394,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackRealloc at D:\programming\Projects\Stack\stack.h(255):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackRealloc at stack.cpp(182):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 2
     capacity = 5
-    data[00B82230]
+    data[00F61650]
     {
         *[0] = 3.140000       
         *[1] = 2.700000       
@@ -409,12 +409,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackPop at D:\programming\Projects\Stack\stack.h(222):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPop at stack.cpp(149):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 2
     capacity = 5
-    data[00B82230]
+    data[00F61650]
     {
         *[0] = 3.140000       
         *[1] = 2.700000       
@@ -424,12 +424,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackPop at D:\programming\Projects\Stack\stack.h(195):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPop at stack.cpp(130):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 2
     capacity = 5
-    data[00B82230]
+    data[00F61650]
     {
         *[0] = 3.140000       
         *[1] = 2.700000       
@@ -439,12 +439,12 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackRealloc at D:\programming\Projects\Stack\stack.h(229):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackRealloc at stack.cpp(156):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 1
     capacity = 5
-    data[00B82230]
+    data[00F61650]
     {
         *[0] = 3.140000       
          [1] = 2.700000       
@@ -454,88 +454,87 @@ Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) 
     }
 }
 ----------------------------------------------------------------------------------------
-StackRealloc at D:\programming\Projects\Stack\stack.h(255):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackRealloc at stack.cpp(182):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 1
     capacity = 2
-    data[00B82230]
+    data[00F61650]
     {
         *[0] = 3.140000       
          [1] = 2.700000       
     }
 }
 ----------------------------------------------------------------------------------------
-StackPop at D:\programming\Projects\Stack\stack.h(222):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPop at stack.cpp(149):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 1
     capacity = 2
-    data[00B82230]
+    data[00F61650]
     {
         *[0] = 3.140000       
          [1] = 2.700000       
     }
 }
 ----------------------------------------------------------------------------------------
-StackPop at D:\programming\Projects\Stack\stack.h(195):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPop at stack.cpp(130):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 1
     capacity = 2
-    data[00B82230]
+    data[00F61650]
     {
         *[0] = 3.140000       
          [1] = 2.700000       
     }
 }
 ----------------------------------------------------------------------------------------
-StackRealloc at D:\programming\Projects\Stack\stack.h(229):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackRealloc at stack.cpp(156):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 0
     capacity = 2
-    data[00B82230]
+    data[00F61650]
     {
          [0] = 3.140000       
          [1] = 50160732958.000000      (POISON)
     }
 }
 ----------------------------------------------------------------------------------------
-StackRealloc at D:\programming\Projects\Stack\stack.h(255):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackRealloc at stack.cpp(182):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 0
     capacity = 1
-    data[00B82230]
+    data[00F61650]
     {
          [0] = 3.140000       
     }
 }
 ----------------------------------------------------------------------------------------
-StackPop at D:\programming\Projects\Stack\stack.h(222):
-Stack[0064FEB0](ok), made at main in D:\programming\Projects\Stack\main.cpp(12) as &stk1
+StackPop at stack.cpp(149):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
 {
     size     = 0
     capacity = 1
-    data[00B82230]
+    data[00F61650]
     {
          [0] = 3.140000       
     }
 }
 ----------------------------------------------------------------------------------------
-StackPop at D:\programming\Projects\Stack\stack.h(195):
-Stack[0064FEB0](ERROR) 
-Impossible to pop smth from stack with 0 size
+StackPop at stack.cpp(130):
+Stack[0061FED0](ok), made at main in main.cpp(10) as &stk1
+{
+    size     = 0
+    capacity = 1
+    data[00F61650]
+    {
+         [0] = 3.140000       
+    }
+}
 ----------------------------------------------------------------------------------------
-StackPop at D:\programming\Projects\Stack\stack.h(195):
-Stack[0064FEB0](ERROR) 
-Impossible to pop smth from stack with 0 size
-----------------------------------------------------------------------------------------
-StackPop at D:\programming\Projects\Stack\stack.h(195):
-Stack[0064FEB0](ERROR) 
-Impossible to pop smth from stack with 0 size
-----------------------------------------------------------------------------------------
-StackPop at D:\programming\Projects\Stack\stack.h(195):
-Stack[0064FEB0](ERROR) 
+StackPop at stack.cpp(131):
+Stack[0061FED0](ERROR) 
 Impossible to pop smth from stack with 0 size
